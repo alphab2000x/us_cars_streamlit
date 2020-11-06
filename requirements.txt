@@ -1,0 +1,10 @@
+numpy==1.16.4
+pandas
+seaborn
+sklearn
+matplotlib
+jupyter
+scikit-learn
+sklearn
+stop_words
+streamlit
