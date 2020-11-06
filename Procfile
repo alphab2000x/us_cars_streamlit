@@ -1,1 +1,1 @@
-web: streamlit run streamlit.py --host=0.0.0.0 --port=${PORT:-8501}
+web: sh setup.sh && streamlit run streamlit.py
